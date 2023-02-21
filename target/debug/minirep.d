@@ -1,0 +1,1 @@
+/Users/brandonpai/Desktop/rust_test/rust_practice/minirep/target/debug/minirep: /Users/brandonpai/Desktop/rust_test/rust_practice/minirep/src/lib.rs /Users/brandonpai/Desktop/rust_test/rust_practice/minirep/src/main.rs
